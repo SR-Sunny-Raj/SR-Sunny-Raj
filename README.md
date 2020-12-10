@@ -1,6 +1,8 @@
 ### Hi There 👋 Welcome To My Profile
 ![](https://komarev.com/ghpvc/?username=your-SR-Sunny-Raj&color=orange&style=plastic)
 
+[<img align ="left" alt="codeSTACKr.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/sunnyraj2424/?originalSubdomain=in]
+
 ![GitHub Logo](https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=radical)
