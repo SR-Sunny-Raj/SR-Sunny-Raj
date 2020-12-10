@@ -3,6 +3,6 @@
 
 ![GitHub Logo](https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=merko)
 
 ### Show some ❤️ by starring some of the repositories!
