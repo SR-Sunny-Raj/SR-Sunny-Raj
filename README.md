@@ -6,4 +6,11 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SR-Sunny-Raj&langs_count=8&show_icons=true&theme=radical)
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring some of the repositories!'
+
+<a href="https://github.com/SR-Sunny-Raj/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SR-Sunny-Raj&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/SR-Sunny-Raj/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SR-Sunny-Raj&repo=convoychat" />
+</a>
