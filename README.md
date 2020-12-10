@@ -1,4 +1,5 @@
-### Hi There 👋 Welcome To My Profile
+# Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome To My Profile
+
 ![](https://komarev.com/ghpvc/?username=your-SR-Sunny-Raj&color=orange&style=plastic)
 
 <p align="left">
