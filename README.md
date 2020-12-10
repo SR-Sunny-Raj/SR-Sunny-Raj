@@ -7,3 +7,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SR-Sunny-Raj&langs_count=8&show_icons=true&theme=radical)
 
 ### Show some ❤️ by starring some of the repositories!'
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SR-Sunny-Raj)](https://github.com/DenverCoder1/github-readme-streak-stats)
