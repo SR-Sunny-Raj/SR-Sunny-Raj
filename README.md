@@ -5,4 +5,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&color=red)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj)
+
 ### Show some ❤️ by starring some of the repositories!
