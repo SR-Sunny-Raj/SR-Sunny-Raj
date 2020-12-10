@@ -1,5 +1,5 @@
 ### Hi There 👋 Welcome To My Profile
-![](https://komarev.com/ghpvc/?username=your-SR-Sunny-Raj&color=yellow&style=plastic)
+![](https://komarev.com/ghpvc/?username=your-SR-Sunny-Raj&color=gold&style=plastic)
 
 ![GitHub Logo](https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif)
 
