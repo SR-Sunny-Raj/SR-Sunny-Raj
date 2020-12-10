@@ -1,7 +1,7 @@
 ### Hi There 👋 Welcome To My Profile
 ![](https://komarev.com/ghpvc/?username=your-SR-Sunny-Raj&color=orange&style=plastic)
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[LINKEDIN].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[linkedin].svg" />
 
 ![GitHub Logo](https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif)
 
