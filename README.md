@@ -1,6 +1,6 @@
 # Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome To My Profile
 
-![](https://komarev.com/ghpvc/?username=your-SR-Sunny-Raj&color=orange&style=plastic)
+![](https://komarev.com/ghpvc/?username=your-SR-Sunny-Raj&color=blue&style=plastic)
 
 <p align="left">
 <a href="https://dev.to/@sunnyraj2424" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@sunnyraj2424" height="30" width="40" /></a>
