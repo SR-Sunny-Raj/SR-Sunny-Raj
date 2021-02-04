@@ -4,7 +4,7 @@
 
 <p align="left">
 <a href="https://dev.to/@sunnyraj2424" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@sunnyraj2424" height="30" width="40" /></a>
-<a href="https://twitter.com/@sunnyrajsunny3" target="blank"><img align="center" src="http://www.pngall.com/wp-content/uploads/2016/07/Twitter-Download-PNG.png" alt="@sunnyrajsunny3" height="30" width="40" /></a>
+<a href="https://twitter.com/@sunnyrajsunny3" target="blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="@sunnyrajsunny3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sunnyraj2424" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sunnyraj2424" height="30" width="40" /></a>
 <a href="https://fb.com/sunny1333raj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sunny1333raj" height="30" width="40" /></a>
 <a href="https://instagram.com/___sunny___raj___" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="___sunny___raj___" height="30" width="40" /></a>
