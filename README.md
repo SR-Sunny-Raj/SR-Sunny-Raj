@@ -5,10 +5,10 @@
 <p align="left">
 <a href="https://dev.to/@sunnyraj2424" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@sunnyraj2424" height="30" width="40" /></a>
 <a href="https://twitter.com/@sunnyrajsunny3" target="blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="@sunnyrajsunny3" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/sunnyraj2424" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sunnyraj2424" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sunnyraj2424" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="sunnyraj2424" height="50" width="50" /></a>
 <a href="https://fb.com/sunny1333raj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sunny1333raj" height="30" width="40" /></a>
 <a href="https://instagram.com/___sunny___raj___" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="___sunny___raj___" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Sunny_Raj_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@Sunny_Raj_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Sunny_Raj_" target="blank"><img align="center" src="https://github.com/amangupta37/KNOW-ME-app/blob/main/hacker-rank.png" alt="@Sunny_Raj_" height="50" width="50" /></a>
 </p>
 
 ![GitHub Logo](https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif)
