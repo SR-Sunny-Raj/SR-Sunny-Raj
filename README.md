@@ -16,6 +16,13 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SR-Sunny-Raj&langs_count=8&show_icons=true&theme=radical)
 
+<a href="https://github.com/SR-Sunny-Raj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR-Sunny-Raj&theme=dracula&line_langs_below=1" />
+</a>
+<a href="https://github.com/SR-Sunny-Raj">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=dracula&line_height=27" alt="Sunny's github stats"/>
+</a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
