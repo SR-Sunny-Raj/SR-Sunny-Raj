@@ -9,7 +9,7 @@
 
 <a href="https://github.com/SR-Sunny-Raj">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=radical&line_height=27" alt="Sunny's github stats"/>
-</a>
+</a><br>
 <a href="https://github.com/SR-Sunny-Raj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR-Sunny-Raj&theme=radical&line_langs_below=1" />
 </a>
