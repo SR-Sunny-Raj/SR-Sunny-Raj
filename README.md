@@ -1,7 +1,6 @@
 # Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome To My Profile
 
-![](https://komarev.com/ghpvc/?username=your-SR-Sunny-Raj&color=blue&style=plastic)
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SR-Sunny-Raj&label=Profile%20views&color=0e75b6&style=plastic" alt="SR-Sunny-Raj" /> </p>
 <p align="center">
 <a href="https://github.com/SR-Sunny-Raj">
   <img align="center" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
