@@ -10,10 +10,10 @@
 
 <p align="center">
 <a href="https://github.com/SR-Sunny-Raj">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=radical&line_height=27" alt="Sunny's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=dracula&line_height=27" alt="Sunny's github stats"/>
 </a><br>
 <a href="https://github.com/SR-Sunny-Raj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR-Sunny-Raj&theme=radical&line_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR-Sunny-Raj&theme=dracula&line_langs_below=1" />
 </a>
 </p>
 <h3 align="left">✨ Connect with me:</h3>
