@@ -25,7 +25,7 @@
 <a href="https://fb.com/sunny1333raj" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" alt="sunny1333raj" height="30" width="30" /></a>
 <a href="https://twitter.com/@sunnyrajsunny3" target="blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="@sunnyrajsunny3" height="30" width="30" /></a>
 
-<h3 align="left">⚜ Languages and Tools:</h3>
+<h3 align="left">🔥 Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
 
