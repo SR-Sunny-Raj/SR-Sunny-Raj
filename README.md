@@ -1,7 +1,5 @@
 # Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome To My Profile <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-<h2 align="center">I'm Sunny Raj! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><span class="material-icons-outlined">
-verified
-</span></h2>
+<h2 align="center">I'm Sunny Raj! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SR-Sunny-Raj&label=Profile%20views&color=0e75b6&style=plastic" alt="SR-Sunny-Raj" /> </p>
 <p align="center">
