@@ -3,6 +3,8 @@
 
 ## Currently Doing BTech in Computer Science And Engineering and enjoying it.
 
+<img align='right' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
+
 - 🎓 I'm currently learning - Frontend Web Development
 - 🤿 I'm looking forward to collaborate on topics related to - DS , Web Development , Python , Java
 - 🐞 Fun Fact -: In my programs there were a lot of copy paste 
@@ -31,11 +33,11 @@
 
 #### 🛠️ Technologies & Tools
 <p float="left">
-<img src="https://img.icons8.com/color/64x/c-programming.png"/>
-<img src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/64x/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/64x/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/64x/python.png"/>
+<img src="https://img.icons8.com/color/2x/c-programming.png"/>
+<img src="https://img.icons8.com/dusk/2x/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/2x/python.png"/>
 </p>
 
 #### ⚙ IDEs
