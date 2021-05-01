@@ -15,12 +15,12 @@
 <img src="https://media.giphy.com/media/7xWWnhbzGtpwEcbYvP/giphy.gif" width="100">
 
 <p align="left">
-<a href="https://dev.to/@sunnyraj2424" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="@sunnyraj2424" height="45" width="45" /></a>
-<a href="https://instagram.com/___sunny___raj___" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/instagram-new.png" alt="___sunny___raj___" height="45" width="45" /></a>
-<a href="https://linkedin.com/in/sunnyraj2424" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" alt="sunnyraj2424" height="30" width="30" /></a>
-<a href="https://fb.com/sunny1333raj" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" alt="sunny1333raj" height="30" width="30" /></a>
-<a href="https://twitter.com/@sunnyrajsunny3" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/twitter.png" alt="@sunnyrajsunny3" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/Sunny_Raj_" target="blank"><img align="center" src="https://github.com/amangupta37/KNOW-ME-app/blob/main/hacker-rank.png" alt="@Sunny_Raj_" height="30" width="30" /></a>
+<a href="https://dev.to/@sunnyraj2424" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="@sunnyraj2424" height="43" width="43" /></a>
+<a href="https://instagram.com/___sunny___raj___" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/instagram-new.png" alt="___sunny___raj___" height="43" width="43" /></a>
+<a href="https://linkedin.com/in/sunnyraj2424" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" alt="sunnyraj2424" height="43" width="43" /></a>
+<a href="https://fb.com/sunny1333raj" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" alt="sunny1333raj" height="43" width="43" /></a>
+<a href="https://twitter.com/@sunnyrajsunny3" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/twitter.png" alt="@sunnyrajsunny3" height="43" width="43" /></a>
+<a href="https://www.hackerrank.com/Sunny_Raj_" target="blank"><img align="center" src="https://github.com/amangupta37/KNOW-ME-app/blob/main/hacker-rank.png" alt="@Sunny_Raj_" height="43" width="43" /></a>
 
 </br>
 <br> 
@@ -30,6 +30,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### 🛠️ Technologies & Tools
+<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 <p float="left">
 <img src="https://img.icons8.com/color/64/c-programming.png"/>
 <img src="https://img.icons8.com/color/64/html-5--v1.png"/>
@@ -37,7 +38,6 @@
 <img src="https://img.icons8.com/color/64/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/color/64/python.png"/>
 </p>
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 
 #### ⚙ IDEs
 <p float="left">
