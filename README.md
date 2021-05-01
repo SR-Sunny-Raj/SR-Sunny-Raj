@@ -40,6 +40,7 @@
 <img src="https://img.icons8.com/color/64/python.png"/>
 </p>
 
+<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 #### ⚙ IDEs
 <p float="left">
 <img src="https://img.icons8.com/color/64/000000/pycharm.png"/>
@@ -49,8 +50,7 @@
 
 <a href="https://github.com/SR-Sunny-Raj">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=dracula&line_height=27" alt="Sunny's github stats"/>
-</a>/>
-   <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /> 
+</a>
 <br>
 <p align="left">
 <a href="https://github.com/SR-Sunny-Raj">
