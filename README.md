@@ -47,7 +47,7 @@
 </p>
 
 <a href="https://github.com/SR-Sunny-Raj">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=dracula&line_height=27" alt="Sunny's github stats"height="30" width="45"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=dracula&line_height=27" alt="Sunny's github stats"height="300" width="450"/>
 </a>
 <br>
 <p align="left">
