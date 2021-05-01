@@ -25,7 +25,7 @@
 </br>
 <br> 
 <p>
-    align="center"> <img src="https://komarev.com/ghpvc/?username=SR-Sunny-Raj&label=Visitors%20&color=0e75b6&style=plastic" alt="SR-Sunny-Raj" />
+    <align="center"> <img src="https://komarev.com/ghpvc/?username=SR-Sunny-Raj&label=Visitors%20&color=0e75b6&style=plastic" alt="SR-Sunny-Raj" />
 </p>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
