@@ -23,11 +23,9 @@
 <a href="https://www.hackerrank.com/Sunny_Raj_" target="blank"><img align="center" src="https://github.com/amangupta37/KNOW-ME-app/blob/main/hacker-rank.png" alt="@Sunny_Raj_" height="30" width="30" /></a>
 
 </br>
-
-<br>
-<br>  
+<br> 
 <p>
-    lign="center"> <img src="https://komarev.com/ghpvc/?username=SR-Sunny-Raj&label=Visitors%20&color=0e75b6&style=plastic" alt="SR-Sunny-Raj" />
+    align="center"> <img src="https://komarev.com/ghpvc/?username=SR-Sunny-Raj&label=Visitors%20&color=0e75b6&style=plastic" alt="SR-Sunny-Raj" />
 </p>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
