@@ -47,8 +47,9 @@
 </p>
 
 <a href="https://github.com/SR-Sunny-Raj">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=dracula&line_height=27" alt="Sunny's github stats"height="250" width="400"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=dracula&line_height=27" alt="Sunny's github stats"/>
 </a>
+<br>
 <p align="left">
 <a href="https://github.com/SR-Sunny-Raj">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR-Sunny-Raj&theme=dracula&line_height=10&hide_langs_below=1&layout=compact" />
