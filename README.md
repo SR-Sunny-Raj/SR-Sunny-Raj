@@ -1,22 +1,23 @@
-<h3>Hi There <img src="https://media.giphy.com/media/QX1OLGwOdE2X5kjn9w/giphy.gif" height="60" width="40"><br> </h3>
-<h5>I'm Sunny Raj.</h5>
-<h4> Currently Pursuing B.Tech in Computer Science and Engineering and enjoying it.<\h4>
+<h2>Hi There <img src="https://media.giphy.com/media/QX1OLGwOdE2X5kjn9w/giphy.gif" height="60" width="40"><br> </h2>
+<h4>I'm Sunny Raj! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h4>
+
+## Currently Doing BTech in Computer Science And Engineering and enjoying it.
+
 - 🎓 I'm currently learning - Frontend Web Development
 - 🤿 I'm looking forward to collaborate on topics related to - DS , Web Development , Python , Java
 - 🐞 Fun Fact -: In my programs there were a lot of copy paste 
 
-
 <br>
-(｡◕‿◕｡) 𝐻𝑒 ℎ𝑎𝑠 𝑎 𝑘𝑛𝑎𝑐𝑘 𝑜𝑓 𝑠𝑜𝑐𝑖𝑎𝑙𝑖𝑧𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝑑𝑖𝑓𝑓𝑒𝑟𝑒𝑛𝑡 𝑝𝑒𝑜𝑝𝑙𝑒, ℎ𝑒'𝑙𝑙 𝑏𝑒 𝑚𝑜𝑟𝑒 𝑡ℎ𝑎𝑛 ℎ𝑎𝑝𝑝𝑦 𝑡𝑜 𝑐𝑜𝑛𝑛𝑒𝑐𝑡 𝑤𝑖𝑡ℎ 𝑦𝑜𝑢 (｡◕‿◕｡)
+(｡◕‿◕｡) I ℎ𝑎𝑣𝑒 𝑎 𝑘𝑛𝑎𝑐𝑘 𝑜𝑓 𝑠𝑜𝑐𝑖𝑎𝑙𝑖𝑧𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝑑𝑖𝑓𝑓𝑒𝑟𝑒𝑛𝑡 𝑝𝑒𝑜𝑝𝑙𝑒, ℎ𝑒'𝑙𝑙 𝑏𝑒 𝑚𝑜𝑟𝑒 𝑡ℎ𝑎𝑛 ℎ𝑎𝑝𝑝𝑦 𝑡𝑜 𝑐𝑜𝑛𝑛𝑒𝑐𝑡 𝑤𝑖𝑡ℎ 𝑦𝑜𝑢 (｡◕‿◕｡)
   
 <img src="https://media.giphy.com/media/7xWWnhbzGtpwEcbYvP/giphy.gif" width="100">
 
 <p align="left">
 <a href="https://dev.to/@sunnyraj2424" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="@sunnyraj2424" height="30" width="30" /></a>
-<a href="https://instagram.com/___sunny___raj___" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64x/instagram-new.png" alt="___sunny___raj___" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/sunnyraj2424" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64x/linkedin.png" alt="sunnyraj2424" height="30" width="30" /></a>
-<a href="https://fb.com/sunny1333raj" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64x/facebook-new.png" alt="sunny1333raj" height="30" width="30" /></a>
-<a href="https://twitter.com/@sunnyrajsunny3" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64x/twitter.png" alt="@sunnyrajsunny3" height="30" width="30" /></a>
+<a href="https://instagram.com/___sunny___raj___" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/instagram-new.png" alt="___sunny___raj___" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/sunnyraj2424" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" alt="sunnyraj2424" height="30" width="30" /></a>
+<a href="https://fb.com/sunny1333raj" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" alt="sunny1333raj" height="30" width="30" /></a>
+<a href="https://twitter.com/@sunnyrajsunny3" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/twitter.png" alt="@sunnyrajsunny3" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/Sunny_Raj_" target="blank"><img align="center" src="https://github.com/amangupta37/KNOW-ME-app/blob/main/hacker-rank.png" alt="@Sunny_Raj_" height="30" width="30" /></a>
 
 </br>
