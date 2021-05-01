@@ -39,8 +39,8 @@
 <img src="https://img.icons8.com/color/64/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/color/64/python.png"/>
 </p>
-
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
+
 #### ⚙ IDEs
 <p float="left">
 <img src="https://img.icons8.com/color/64/000000/pycharm.png"/>
