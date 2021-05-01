@@ -1,7 +1,7 @@
 <h2>Hi There <img src="https://media.giphy.com/media/QX1OLGwOdE2X5kjn9w/giphy.gif" height="60" width="40"><br> </h2>
 <h4>I'm Sunny Raj! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h4>
 
-## Currently Doing BTech in Computer Science And Engineering and enjoying it.
+## Currently Doing B.Tech in Computer Science And Engineering and enjoying it.
 
 <img align='right' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
 
@@ -27,9 +27,9 @@
 <br>
 <br>  
 <p>
-    <img class="center" alt="Saurabh Gupta's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/saurabh48782"/>
+    lign="center"> <img src="https://komarev.com/ghpvc/?username=SR-Sunny-Raj&label=Visitors%20&color=0e75b6&style=plastic" alt="SR-Sunny-Raj" />
 </p>
------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### 🛠️ Technologies & Tools
 <p float="left">
