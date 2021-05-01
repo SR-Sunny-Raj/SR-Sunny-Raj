@@ -27,7 +27,7 @@
 <p>
     <align="center"> <img src="https://komarev.com/ghpvc/?username=SR-Sunny-Raj&label=Visitors%20&color=0e75b6&style=plastic" alt="SR-Sunny-Raj" />
 </p>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### 🛠️ Technologies & Tools
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
@@ -47,7 +47,7 @@
 </p>
 
 <a href="https://github.com/SR-Sunny-Raj">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=dracula&line_height=27" alt="Sunny's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=dracula&line_height=27" alt="Sunny's github stats"height="30" width="45"/>
 </a>
 <br>
 <p align="left">
