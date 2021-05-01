@@ -29,11 +29,11 @@
 <p>
     <img class="center" alt="Saurabh Gupta's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/saurabh48782"/>
 </p>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 #### 🛠️ Technologies & Tools
 <p float="left">
-<img src="https://img.icons8.com/color/2x/c-programming.png"/>
+<img src="https://img.icons8.com/color/64/c-programming.png"/>
 <img src="https://img.icons8.com/dusk/2x/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"/>
