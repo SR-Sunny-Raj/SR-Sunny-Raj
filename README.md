@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/sunnyraj2424" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" alt="sunnyraj2424" height="43" width="43" /></a>
 <a href="https://fb.com/sunny1333raj" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" alt="sunny1333raj" height="43" width="43" /></a>
 <a href="https://twitter.com/@sunnyrajsunny3" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/twitter.png" alt="@sunnyrajsunny3" height="43" width="43" /></a>
-<a href="https://www.hackerrank.com/Sunny_Raj_" target="blank"><img align="center" src="https://github.com/amangupta37/KNOW-ME-app/blob/main/hacker-rank.png" alt="@Sunny_Raj_" height="43" width="43" /></a>
+<a href="https://www.hackerrank.com/Sunny_Raj_2023" target="blank"><img align="center" src="https://github.com/amangupta37/KNOW-ME-app/blob/main/hacker-rank.png" alt="@Sunny_Raj_" height="43" width="43" /></a>
 
 </br>
 <br> 
