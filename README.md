@@ -27,7 +27,7 @@
 </p>
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### 🛠️ Technologies & Tools
+#### 🛠️ Technologies & Tools :-
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 <p float="left">
 <img src="https://img.icons8.com/color/64/c-programming.png"/>
@@ -37,7 +37,7 @@
 <img src="https://img.icons8.com/color/64/python.png"/>
 </p>
 
-#### ⚙ IDEs
+#### ⚙ IDEs :-
 <p float="left">
 <img src="https://img.icons8.com/color/64/000000/pycharm.png"/>
 <img src="https://img.icons8.com/color/64/000000/intellij-idea.png"/>
