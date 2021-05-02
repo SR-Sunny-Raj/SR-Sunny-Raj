@@ -52,8 +52,10 @@
 <a href="https://github.com/SR-Sunny-Raj">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=dracula&line_height=27" alt="Sunny's github stats"/>
 </a>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/SunnyRaj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/SunnyRaj" /></a></p><br><br>
+  
+#### 🔰 Support :-
+<p float="left">
+<a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/SunnyRaj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/SunnyRaj" /></a></p><br><br>
 
 <h3 align="center">
 Show some ❤️ by starring some of the repositories!
