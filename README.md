@@ -7,7 +7,7 @@
 
 - 🎓 I'm currently learning - Frontend Web Development
 - 🤿 I'm looking forward to collaborate on topics related to - DS , Web Development , Python , Java
-- 🐞 Fun Fact -: Everything is fun except understanding someones code 
+- 🐞 Fun Fact -: Code is like humor. When you have to explain it , it's bad
 
 <br>
 (｡◕‿◕｡) I ℎ𝑎𝑣𝑒 𝑎 𝑘𝑛𝑎𝑐𝑘 𝑜𝑓 𝑠𝑜𝑐𝑖𝑎𝑙𝑖𝑧𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝑑𝑖𝑓𝑓𝑒𝑟𝑒𝑛𝑡 𝑝𝑒𝑜𝑝𝑙𝑒, 𝑎𝑛𝑑 𝑤𝑖𝑙𝑙 𝑏𝑒 𝑚𝑜𝑟𝑒 𝑡ℎ𝑎𝑛 ℎ𝑎𝑝𝑝𝑦 𝑡𝑜 𝑐𝑜𝑛𝑛𝑒𝑐𝑡 𝑤𝑖𝑡ℎ 𝑦𝑜𝑢 (｡◕‿◕｡)
