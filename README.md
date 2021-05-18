@@ -33,10 +33,11 @@
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 <p float="left">
 <img src="https://img.icons8.com/color/64/c-programming.png"/>
-<img src="https://img.icons8.com/color/64/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/64/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/64/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/color/64/python.png"/>
+<img src="https://img.icons8.com/color/64/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/64x/css3.png"/>
 </p>
 
 #### ⚙ IDEs :-
