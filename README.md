@@ -35,6 +35,7 @@
 <img src="https://img.icons8.com/color/64/c-programming.png"/>
 <img src="https://img.icons8.com/color/64/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/64/java-coffee-cup-logo.png"/>
+<br>
 <img src="https://img.icons8.com/color/64/python.png"/>
 <img src="https://img.icons8.com/color/64/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/64/css3.png"/>
