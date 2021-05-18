@@ -37,7 +37,7 @@
 <img src="https://img.icons8.com/color/64/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/color/64/python.png"/>
 <img src="https://img.icons8.com/color/64/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/64x/css3.png"/>
+<img src="https://img.icons8.com/color/64/css3.png"/>
 </p>
 
 #### ⚙ IDEs :-
