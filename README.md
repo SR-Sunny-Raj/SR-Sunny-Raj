@@ -5,8 +5,8 @@
 
 <img align='right' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
 
-- 🎓 I'm currently learning - Frontend Web Development
-- 🤿 I'm looking forward to collaborate on topics related to - DSA , Web Development , Python , Java
+- 🎓 I'm currently learning - Backend Web Development
+- 🤿 I'm looking forward to collaborate on topics related to - DSA , Web Development , Python , Java , C/C++
 - 🐞 Fun Fact -: Code is like humor. When you have to explain it , it's bad
 
 <br>
