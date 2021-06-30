@@ -39,7 +39,7 @@
 <img src="https://img.icons8.com/color/64/python.png"/>
 <img src="https://img.icons8.com/color/64/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/64/css3.png"/>
-<img src="https://img.icons8.com/color/64/javascript--v2.gif width=100px height=100px"/>
+<img src="https://img.icons8.com/color/64/javascript--v2.gif" width=100px height=100px/>
 </p>
 
 #### ⚙ IDEs :-
