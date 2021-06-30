@@ -34,11 +34,12 @@
 <p float="left">
 <img src="https://img.icons8.com/color/64/c-programming.png"/>
 <img src="https://img.icons8.com/color/64/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/64/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/64/java-coffee-cup-logo--v2.gif"/>
 <br>
 <img src="https://img.icons8.com/color/64/python.png"/>
 <img src="https://img.icons8.com/color/64/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/64/css3.png"/>
+<img src="https://img.icons8.com/color/64/javascript--v2.gif"/>
 </p>
 
 #### ⚙ IDEs :-
