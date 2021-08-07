@@ -51,11 +51,11 @@
 </p>
 
 <p align="left">
-<a href="https://github.com/SR-Sunny-Raj">
+<a href="https://github.com/S-Sunny-Raj">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Sunny-Raj&theme=dracula&line_height=10&langs_count=8&layout=compact" />
 </a>
 <br>
-<a href="https://github.com/SR-Sunny-Raj">
+<a href="https://github.com/S-Sunny-Raj">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=S-Sunny-Raj&show_icons=true&theme=dracula&line_height=27" alt="Sunny's github stats"/>
 </a>
   
