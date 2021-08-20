@@ -25,7 +25,7 @@
 </br>
 <br> 
 <p>
-    <align="center"> <img src="https://komarev.com/ghpvc/?username=S-Sunny-Raj&label=Visitors%20&color=0e75b6&style=plastic" alt="S-Sunny-Raj" />
+    <align="center"> <img src="https://komarev.com/ghpvc/?username=SR-Sunny-Raj&label=Visitors%20&color=0e75b6&style=plastic" alt="SR-Sunny-Raj" />
 </p>
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -51,12 +51,12 @@
 </p>
 
 <p align="left">
-<a href="https://github.com/S-Sunny-Raj">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Sunny-Raj&theme=dracula&line_height=10&langs_count=8&layout=compact" />
+<a href="https://github.com/SR-Sunny-Raj">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR-Sunny-Raj&theme=dracula&line_height=10&langs_count=8&layout=compact" />
 </a>
 <br>
-<a href="https://github.com/S-Sunny-Raj">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=S-Sunny-Raj&show_icons=true&theme=dracula&line_height=27" alt="Sunny's github stats"/>
+<a href="https://github.com/SR-Sunny-Raj">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=dracula&line_height=27" alt="Sunny's github stats"/>
 </a>
   
 #### 🔰 Support :-
