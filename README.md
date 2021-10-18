@@ -1,7 +1,9 @@
 ## Hey there <img src="https://media.giphy.com/media/QX1OLGwOdE2X5kjn9w/giphy.gif" height="60" width="40"></h2>
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 <h4 style=font-family: 'Style Script', cursive;>I'm Sunny Raj!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h4>
 
 ## Currently Pursuing B.Tech in Computer Science and Engineering and I'm enjoying it.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
 <img align='right' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
 
@@ -27,7 +29,7 @@
 <p>
     <align="center"> <img src="https://komarev.com/ghpvc/?username=SR-Sunny-Raj&label=Visitors%20&color=0e75b6&style=plastic" alt="SR-Sunny-Raj" />
 </p>
---------------------------------------------------------------------------------------------------------------------------------------------------------
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
 #### 🛠️ Technologies & Tools :-
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
