@@ -22,6 +22,8 @@
 <a href="https://www.hackerrank.com/Sunny_Raj_2023" target="blank"><img align="center" src="https://github.com/amangupta37/KNOW-ME-app/blob/main/hacker-rank.png" alt="@Sunny_Raj_" height="43" width="43" /></a>
 <a href="https://leetcode.com/SR-Sunny-Raj/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/43/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="@Sunny_Raj_" /></a>
 <a href="https://www.codechef.com/users/mr_c0d3r" target="blank"><img align="center" src="https://img.icons8.com/ios/43/000000/codechef.png" alt="@Sunny_Raj_" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sunnyraj1333/practice" target="blank"><img align="center" src="https://img.icons8.com/color/43/000000/GeeksforGeeks.png" alt="@Sunny_Raj_" /></a>
+  
   
 </br>
 <br> 
