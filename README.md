@@ -20,7 +20,8 @@
 <a href="https://linkedin.com/in/sunnyraj2424" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" alt="sunnyraj2424" height="43" width="43" /></a>
 <a href="https://twitter.com/@sunnyrajsunny3" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/twitter.png" alt="@sunnyrajsunny3" height="43" width="43" /></a>
 <a href="https://www.hackerrank.com/Sunny_Raj_2023" target="blank"><img align="center" src="https://github.com/amangupta37/KNOW-ME-app/blob/main/hacker-rank.png" alt="@Sunny_Raj_" height="43" width="43" /></a>
-
+<a href="https://leetcode.com/SR-Sunny-Raj/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="@Sunny_Raj_" height="43" width="43" /></a>
+  
 </br>
 <br> 
 <p>
