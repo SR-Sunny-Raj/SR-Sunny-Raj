@@ -3,9 +3,10 @@
 
 <h2> 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑃𝑢𝑟𝑠𝑢𝑖𝑛𝑔 𝐵.𝑇𝑒𝑐ℎ 𝑖𝑛 𝐶𝑜𝑚𝑝𝑢𝑡𝑒𝑟 𝑆𝑐𝑖𝑒𝑛𝑐𝑒 𝑎𝑛𝑑 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔 𝑎𝑛𝑑 𝐼'𝑚 𝑒𝑛𝑗𝑜𝑦𝑖𝑛𝑔 𝑖𝑡.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 
-<img align='right' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
+<!-- <img align='right' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400"> -->
+<img align='right' src="https://assets5.lottiefiles.com/packages/lf20_tsdnk8ut.json" width="400">
 <!-- 
-- 🎓 I'm currently learning - Backend Web Development
+- 🎓 I'm currently learning - Backend Web Development//fsymbols.com
 - 🤿 I'm looking forward to collaborate on topics related to - DSA , Web Development , Python , Java , C/C++
 - 🐞 Fun Fact -: Code is like humor. When you have to explain it , it's bad -->
 <ul style="list-style-type:square;">
@@ -14,6 +15,7 @@
   <li>🐞 𝐹𝑢𝑛 𝐹𝑎𝑐𝑡 -: 𝐶𝑜𝑑𝑒 𝑖𝑠 𝑙𝑖𝑘𝑒 ℎ𝑢𝑚𝑜𝑟. 𝑊ℎ𝑒𝑛 𝑦𝑜𝑢 ℎ𝑎𝑣𝑒 𝑡𝑜 𝑒𝑥𝑝𝑙𝑎𝑖𝑛 𝑖𝑡 , 𝑖𝑡'𝑠 𝑏𝑎𝑑</li>
 </ul>
 
+<!-- https://assets5.lottiefiles.com/packages/lf20_tsdnk8ut.json -->
 
 <br>
 (｡◕‿◕｡) I ℎ𝑎𝑣𝑒 𝑎 𝑘𝑛𝑎𝑐𝑘 𝑜𝑓 𝑠𝑜𝑐𝑖𝑎𝑙𝑖𝑧𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝑑𝑖𝑓𝑓𝑒𝑟𝑒𝑛𝑡 𝑝𝑒𝑜𝑝𝑙𝑒, 𝑎𝑛𝑑 𝑤𝑖𝑙𝑙 𝑏𝑒 𝑚𝑜𝑟𝑒 𝑡ℎ𝑎𝑛 ℎ𝑎𝑝𝑝𝑦 𝑡𝑜 𝑐𝑜𝑛𝑛𝑒𝑐𝑡 𝑤𝑖𝑡ℎ 𝑦𝑜𝑢 (｡◕‿◕｡)
