@@ -1,3 +1,4 @@
+<div style=font-family: 'Comic Neue', cursive;>
 ## Hey there <img src="https://media.giphy.com/media/QX1OLGwOdE2X5kjn9w/giphy.gif" height="60" width="40"></h2>
 <h4 style=font-family: 'Comic Neue', cursive;>I'm Sunny Raj!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h4>
 
@@ -69,3 +70,4 @@
 <h3 align="center">
 Show some ❤️ by starring some of the repositories!
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"></h3>
+</div>
