@@ -1,22 +1,16 @@
 <h2> 𝐻𝑒𝑦 𝑡ℎ𝑒𝑟𝑒 <img src="https://media.giphy.com/media/QX1OLGwOdE2X5kjn9w/giphy.gif" height="60" width="40"></h2>
-<h4 style=font-family: 'Fuzzy Bubbles', cursive;>𝐼'𝑚 𝑆𝑢𝑛𝑛𝑦 𝑅𝑎𝑗!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h4>
-<style>
-  img {
-  border-radius: 50px;
-  align: right;
-  }
-</style>
+<h3 style=font-family: 'Fuzzy Bubbles', cursive;>𝐼'𝑚 𝑆𝑢𝑛𝑛𝑦 𝑅𝑎𝑗!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
 <h2> 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑃𝑢𝑟𝑠𝑢𝑖𝑛𝑔 𝐵.𝑇𝑒𝑐ℎ 𝑖𝑛 𝐶𝑜𝑚𝑝𝑢𝑡𝑒𝑟 𝑆𝑐𝑖𝑒𝑛𝑐𝑒 𝑎𝑛𝑑 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔 𝑎𝑛𝑑 𝐼'𝑚 𝑒𝑛𝑗𝑜𝑦𝑖𝑛𝑔 𝑖𝑡.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 
-<!-- <img align='right' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400"> -->
+<img align='right' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
 <!-- <img align='right' src="https://embed.lottiefiles.com/animation/79311.gif" width="400"> -->
-<img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
+<!-- <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400"> -->
 
 <!-- 
 - 🎓 I'm currently learning - Backend Web Development//fsymbols.com
 - 🤿 I'm looking forward to collaborate on topics related to - DSA , Web Development , Python , Java , C/C++
 - 🐞 Fun Fact -: Code is like humor. When you have to explain it , it's bad -->
-<ul style="list-style-type:square;">
+<ul>
   <li>🎓 𝐼'𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 - 𝐵𝑎𝑐𝑘𝑒𝑛𝑑 𝑊𝑒𝑏 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡</li>
   <li>🤿 𝐼'𝑚 𝑙𝑜𝑜𝑘𝑖𝑛𝑔 𝑓𝑜𝑟𝑤𝑎𝑟𝑑 𝑡𝑜 𝑐𝑜𝑙𝑙𝑎𝑏𝑜𝑟𝑎𝑡𝑒 𝑜𝑛 𝑡𝑜𝑝𝑖𝑐𝑠 𝑟𝑒𝑙𝑎𝑡𝑒𝑑 𝑡𝑜 - 𝐷𝑆𝐴 , 𝑊𝑒𝑏 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 , 𝑃𝑦𝑡ℎ𝑜𝑛 , 𝐽𝑎𝑣𝑎 , 𝐶/𝐶++</li>
   <li>🐞 𝐹𝑢𝑛 𝐹𝑎𝑐𝑡 -: 𝐶𝑜𝑑𝑒 𝑖𝑠 𝑙𝑖𝑘𝑒 ℎ𝑢𝑚𝑜𝑟. 𝑊ℎ𝑒𝑛 𝑦𝑜𝑢 ℎ𝑎𝑣𝑒 𝑡𝑜 𝑒𝑥𝑝𝑙𝑎𝑖𝑛 𝑖𝑡 , 𝑖𝑡'𝑠 𝑏𝑎𝑑</li>
