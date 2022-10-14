@@ -4,7 +4,9 @@
 ## Currently Pursuing B.Tech in Computer Science and Engineering and I'm enjoying it.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <img align='right' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
-- 🎓 𝐼'𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓁𝑒𝒶𝓇𝓃𝒾𝓃𝑔 - 𝐵𝒶𝒸𝓀𝑒𝓃𝒹 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝓂𝑒𝓃𝓉<br> - 🤿 𝙸'𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛𝚠𝚊𝚛𝚍 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 𝚝𝚘𝚙𝚒𝚌𝚜 𝚛𝚎𝚕𝚊𝚝𝚎𝚍 𝚝𝚘 - 𝙳𝚂𝙰 , 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 , 𝙿𝚢𝚝𝚑𝚘𝚗 , 𝙹𝚊𝚟𝚊 , 𝙲/𝙲++<br> - 🐞 𝙵𝚞𝚗 𝙵𝚊𝚌𝚝 -: 𝙲𝚘𝚍𝚎 𝚒𝚜 𝚕𝚒𝚔𝚎 𝚑𝚞𝚖𝚘𝚛. 𝚆𝚑𝚎𝚗 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚝𝚘 𝚎𝚡𝚙𝚕𝚊𝚒𝚗 𝚒𝚝 , 𝚒𝚝'𝚜 𝚋𝚊𝚍
+- 🎓 I'm currently learning - Backend Web Development
+- 🤿 I'm looking forward to collaborate on topics related to - DSA , Web Development , Python , Java , C/C++
+- 🐞 Fun Fact -: Code is like humor. When you have to explain it , it's bad
 
 <br>
 (｡◕‿◕｡) I ℎ𝑎𝑣𝑒 𝑎 𝑘𝑛𝑎𝑐𝑘 𝑜𝑓 𝑠𝑜𝑐𝑖𝑎𝑙𝑖𝑧𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝑑𝑖𝑓𝑓𝑒𝑟𝑒𝑛𝑡 𝑝𝑒𝑜𝑝𝑙𝑒, 𝑎𝑛𝑑 𝑤𝑖𝑙𝑙 𝑏𝑒 𝑚𝑜𝑟𝑒 𝑡ℎ𝑎𝑛 ℎ𝑎𝑝𝑝𝑦 𝑡𝑜 𝑐𝑜𝑛𝑛𝑒𝑐𝑡 𝑤𝑖𝑡ℎ 𝑦𝑜𝑢 (｡◕‿◕｡)
