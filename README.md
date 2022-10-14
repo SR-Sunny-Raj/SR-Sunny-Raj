@@ -8,7 +8,7 @@
 - 🎓 I'm currently learning - Backend Web Development
 - 🤿 I'm looking forward to collaborate on topics related to - DSA , Web Development , Python , Java , C/C++
 - 🐞 Fun Fact -: Code is like humor. When you have to explain it , it's bad -->
-<ul style=list-style: 'arrow'>
+<ul style="list-style-type:square;">
   <li>🎓 𝐼'𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 - 𝐵𝑎𝑐𝑘𝑒𝑛𝑑 𝑊𝑒𝑏 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡</li>
   <li>🤿 𝐼'𝑚 𝑙𝑜𝑜𝑘𝑖𝑛𝑔 𝑓𝑜𝑟𝑤𝑎𝑟𝑑 𝑡𝑜 𝑐𝑜𝑙𝑙𝑎𝑏𝑜𝑟𝑎𝑡𝑒 𝑜𝑛 𝑡𝑜𝑝𝑖𝑐𝑠 𝑟𝑒𝑙𝑎𝑡𝑒𝑑 𝑡𝑜 - 𝐷𝑆𝐴 , 𝑊𝑒𝑏 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 , 𝑃𝑦𝑡ℎ𝑜𝑛 , 𝐽𝑎𝑣𝑎 , 𝐶/𝐶++</li>
   <li>🐞 𝐹𝑢𝑛 𝐹𝑎𝑐𝑡 -: 𝐶𝑜𝑑𝑒 𝑖𝑠 𝑙𝑖𝑘𝑒 ℎ𝑢𝑚𝑜𝑟. 𝑊ℎ𝑒𝑛 𝑦𝑜𝑢 ℎ𝑎𝑣𝑒 𝑡𝑜 𝑒𝑥𝑝𝑙𝑎𝑖𝑛 𝑖𝑡 , 𝑖𝑡'𝑠 𝑏𝑎𝑑</li>
