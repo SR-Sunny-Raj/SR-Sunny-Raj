@@ -5,7 +5,7 @@
 
 <img align='right' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
 <!-- <img align='right' src="https://embed.lottiefiles.com/animation/79311.gif" width="400"> -->
-<img style="border-radius: 50px;text-align:right;" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
+<img style="border-radius:500px;text-align:right;" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
 
 <!-- 
 - 🎓 I'm currently learning - Backend Web Development//fsymbols.com
