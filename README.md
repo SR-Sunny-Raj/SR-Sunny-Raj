@@ -1,22 +1,24 @@
-## Hey there <img src="https://media.giphy.com/media/QX1OLGwOdE2X5kjn9w/giphy.gif" height="60" width="40"></h2>
+<h2> 𝐻𝑒𝑦 𝑡ℎ𝑒𝑟𝑒 <img src="https://media.giphy.com/media/QX1OLGwOdE2X5kjn9w/giphy.gif" height="60" width="40"></h2>
 <h4 style=font-family: 'Fuzzy Bubbles', cursive;>I'm Sunny Raj!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h4>
 
-## Currently Pursuing B.Tech in Computer Science and Engineering and I'm enjoying it.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<h2> 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑃𝑢𝑟𝑠𝑢𝑖𝑛𝑔 𝐵.𝑇𝑒𝑐ℎ 𝑖𝑛 𝐶𝑜𝑚𝑝𝑢𝑡𝑒𝑟 𝑆𝑐𝑖𝑒𝑛𝑐𝑒 𝑎𝑛𝑑 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔 𝑎𝑛𝑑 𝐼'𝑚 𝑒𝑛𝑗𝑜𝑦𝑖𝑛𝑔 𝑖𝑡.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 
 <img align='right' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
 <!-- 
 - 🎓 I'm currently learning - Backend Web Development
 - 🤿 I'm looking forward to collaborate on topics related to - DSA , Web Development , Python , Java , C/C++
 - 🐞 Fun Fact -: Code is like humor. When you have to explain it , it's bad -->
+<ul>
+  <li>🎓 𝐼'𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 - 𝐵𝑎𝑐𝑘𝑒𝑛𝑑 𝑊𝑒𝑏 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡</li>
+  <li>🤿 𝐼'𝑚 𝑙𝑜𝑜𝑘𝑖𝑛𝑔 𝑓𝑜𝑟𝑤𝑎𝑟𝑑 𝑡𝑜 𝑐𝑜𝑙𝑙𝑎𝑏𝑜𝑟𝑎𝑡𝑒 𝑜𝑛 𝑡𝑜𝑝𝑖𝑐𝑠 𝑟𝑒𝑙𝑎𝑡𝑒𝑑 𝑡𝑜 - 𝐷𝑆𝐴 , 𝑊𝑒𝑏 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 , 𝑃𝑦𝑡ℎ𝑜𝑛 , 𝐽𝑎𝑣𝑎 , 𝐶/𝐶++</li>
+  <li>🐞 𝐹𝑢𝑛 𝐹𝑎𝑐𝑡 -: 𝐶𝑜𝑑𝑒 𝑖𝑠 𝑙𝑖𝑘𝑒 ℎ𝑢𝑚𝑜𝑟. 𝑊ℎ𝑒𝑛 𝑦𝑜𝑢 ℎ𝑎𝑣𝑒 𝑡𝑜 𝑒𝑥𝑝𝑙𝑎𝑖𝑛 𝑖𝑡 , 𝑖𝑡'𝑠 𝑏𝑎𝑑</li>
+</ul>
 
-🎓 𝑰❜𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 - 𝑩𝒂𝒄𝒌𝒆𝒏𝒅 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕<br>
-🤿 𝑰❜𝒎 𝒍𝒐𝒐𝒌𝒊𝒏𝒈 𝒇𝒐𝒓𝒘𝒂𝒓𝒅 𝒕𝒐 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒆 𝒐𝒏 𝒕𝒐𝒑𝒊𝒄𝒔 𝒓𝒆𝒍𝒂𝒕𝒆𝒅 𝒕𝒐 - 𝑫𝑺𝑨 , 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 , 𝑷𝒚𝒕𝒉𝒐𝒏 , 𝑱𝒂𝒗𝒂 , 𝑪/𝑪++<br>
-🐞 𝑭𝒖𝒏 𝑭𝒂𝒄𝒕 -: 𝑪𝒐𝒅𝒆 𝒊𝒔 𝒍𝒊𝒌𝒆 𝒉𝒖𝒎𝒐𝒓. 𝑾𝒉𝒆𝒏 𝒚𝒐𝒖 𝒉𝒂𝒗𝒆 𝒕𝒐 𝒆𝒙𝒑𝒍𝒂𝒊𝒏 𝒊𝒕 , 𝒊𝒕❜𝒔 𝒃𝒂𝒅<br>
 
 <br>
-𝐼 ℎ𝑎𝑣𝑒 𝑎 𝑘𝑛𝑎𝑐𝑘 𝑜𝑓 𝑠𝑜𝑐𝑖𝑎𝑙𝑖𝑧𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝑑𝑖𝑓𝑓𝑒𝑟𝑒𝑛𝑡 𝑝𝑒𝑜𝑝𝑙𝑒, 𝑎𝑛𝑑 𝑤𝑖𝑙𝑙 𝑏𝑒 𝑚𝑜𝑟𝑒 𝑡ℎ𝑎𝑛 ℎ𝑎𝑝𝑝𝑦 𝑡𝑜 𝑐𝑜𝑛𝑛𝑒𝑐𝑡 𝑤𝑖𝑡ℎ 𝑦𝑜𝑢
+(｡◕‿◕｡) 𝐼 ℎ𝑎𝑣𝑒 𝑎 𝑘𝑛𝑎𝑐𝑘 𝑜𝑓 𝑠𝑜𝑐𝑖𝑎𝑙𝑖𝑧𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝑑𝑖𝑓𝑓𝑒𝑟𝑒𝑛𝑡 𝑝𝑒𝑜𝑝𝑙𝑒, 𝑎𝑛𝑑 𝑤𝑖𝑙𝑙 𝑏𝑒 𝑚𝑜𝑟𝑒 𝑡ℎ𝑎𝑛 ℎ𝑎𝑝𝑝𝑦 𝑡𝑜 𝑐𝑜𝑛𝑛𝑒𝑐𝑡 𝑤𝑖𝑡ℎ 𝑦𝑜𝑢 (｡◕‿◕｡)
 <br>
-(｡◕‿◕｡) I ℎ𝑎𝑣𝑒 𝑎 𝑘𝑛𝑎𝑐𝑘 𝑜𝑓 𝑠𝑜𝑐𝑖𝑎𝑙𝑖𝑧𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝑑𝑖𝑓𝑓𝑒𝑟𝑒𝑛𝑡 𝑝𝑒𝑜𝑝𝑙𝑒, 𝑎𝑛𝑑 𝑤𝑖𝑙𝑙 𝑏𝑒 𝑚𝑜𝑟𝑒 𝑡ℎ𝑎𝑛 ℎ𝑎𝑝𝑝𝑦 𝑡𝑜 𝑐𝑜𝑛𝑛𝑒𝑐𝑡 𝑤𝑖𝑡ℎ 𝑦𝑜𝑢 (｡◕‿◕｡)
+<!-- (｡◕‿◕｡) I ℎ𝑎𝑣𝑒 𝑎 𝑘𝑛𝑎𝑐𝑘 𝑜𝑓 𝑠𝑜𝑐𝑖𝑎𝑙𝑖𝑧𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝑑𝑖𝑓𝑓𝑒𝑟𝑒𝑛𝑡 𝑝𝑒𝑜𝑝𝑙𝑒, 𝑎𝑛𝑑 𝑤𝑖𝑙𝑙 𝑏𝑒 𝑚𝑜𝑟𝑒 𝑡ℎ𝑎𝑛 ℎ𝑎𝑝𝑝𝑦 𝑡𝑜 𝑐𝑜𝑛𝑛𝑒𝑐𝑡 𝑤𝑖𝑡ℎ 𝑦𝑜𝑢 (｡◕‿◕｡) -->
   
 <img src="https://media.giphy.com/media/7xWWnhbzGtpwEcbYvP/giphy.gif" width="100">
 
@@ -38,7 +40,8 @@
 </p>
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
-#### 🛠️ Technologies & Tools :-
+<!-- #### 🛠️ Technologies & Tools :- -->
+<h4> 🛠️ 𝑇𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 & 𝑇𝑜𝑜𝑙𝑠 :- </h4>
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 <p float="left">
 <img src="https://img.icons8.com/color/64/c-programming.png"/>
@@ -52,7 +55,8 @@
 <img src="https://img.icons8.com/color/64/nodejs.png"/>
 </p>
 
-#### ⚙ IDEs :-
+<!-- #### ⚙ IDEs :- -->
+<h4> ⚙ 𝐼𝐷𝐸𝑠 :-</h4>
 <p float="left">
 <img src="https://img.icons8.com/color/64/000000/pycharm.png"/>
 <img src="https://img.icons8.com/color/64/000000/intellij-idea.png"/>
@@ -68,10 +72,12 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=dracula&line_height=27" alt="Sunny's github stats"/>
 </a>
   
-#### 🔰 Support :-
+<!-- #### 🔰 Support :- -->
+<h4> 🔰 𝑆𝑢𝑝𝑝𝑜𝑟𝑡 :-</h4>
 <p float="left">
 <a href="https://www.buymeacoffee.com/SunnyRaj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/SunnyRaj" /></a></p><br><br>
 
 <h3 align="center">
-Show some ❤️ by starring some of the repositories!
+<!-- Show some ❤️ by starring some of the repositories! -->
+𝑆ℎ𝑜𝑤 𝑠𝑜𝑚𝑒 ❤️ 𝑏𝑦 𝑠𝑡𝑎𝑟𝑟𝑖𝑛𝑔 𝑠𝑜𝑚𝑒 𝑜𝑓 𝑡ℎ𝑒 𝑟𝑒𝑝𝑜𝑠𝑖𝑡𝑜𝑟𝑖𝑒𝑠!
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"></h3>
