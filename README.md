@@ -64,14 +64,15 @@
 <img src="https://img.icons8.com/fluent/64/000000/visual-studio-code-2019.png"/>
 </p>
 
-<p align="left">
+<!-- <p align="left"> -->
 <a href="https://github.com/SR-Sunny-Raj">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR-Sunny-Raj&theme=gruvbox&line_height=10&langs_count=8&layout=compact" />
 </a>
 <br>
 <a href="https://github.com/SR-Sunny-Raj">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=gruvbox&line_height=27" alt="Sunny's github stats"/>
-</a></p>
+</a>
+<!-- </p> -->
   
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SR-Sunny-Raj&repo=Hacktoberfest2022-for-everyone&show_owner=true&theme=gruvbox_light)](https://github.com/SR-Sunny-Raj/Hacktoberfest2022-for-everyone) -->
   
