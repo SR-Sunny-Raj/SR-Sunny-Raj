@@ -4,7 +4,7 @@
 
 <!-- <img align='right' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400"> -->
 <!-- <img align='right' src="https://embed.lottiefiles.com/animation/79311.gif" width="400"> -->
-<img align='right' src="https://www.dropbox.com/s/fs3j3c1vmjqlxd3/79311-web-design-tools.gif?dl=0" width="400">
+<img align='right' src="https://photos.app.goo.gl/qAysBTjxDYHwb3u69" width="400">
 
 <!-- 
 - 🎓 I'm currently learning - Backend Web Development//fsymbols.com
