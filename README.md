@@ -73,7 +73,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=gruvbox&line_height=27" alt="Sunny's github stats"/>
 </a>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SR-Sunny-Raj&repo=github-readme-stats&show_owner&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SR-Sunny-Raj&repo=github-readme-stats&show_owner&theme=gruvbox_light)](https://github.com/SR-Sunny-Raj/github-readme-stats)
   
 <!-- #### 🔰 Support :- -->
 <h4> 🔰 𝑆𝑢𝑝𝑝𝑜𝑟𝑡 :-</h4>
