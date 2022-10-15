@@ -73,6 +73,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=gruvbox_light&line_height=27" alt="Sunny's github stats"/>
 </a>
   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SR-Sunny-Raj&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  
 <!-- #### 🔰 Support :- -->
 <h4> 🔰 𝑆𝑢𝑝𝑝𝑜𝑟𝑡 :-</h4>
 <p float="left">
