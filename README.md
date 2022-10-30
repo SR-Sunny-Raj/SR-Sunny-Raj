@@ -30,14 +30,15 @@
 <img src="https://media.giphy.com/media/7xWWnhbzGtpwEcbYvP/giphy.gif" width="100">
 
 <p align="left">
-<a href="https://dev.to/@sunnyraj2424" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="@sunnyraj2424" height="43" width="43" /></a>
-<a href="https://instagram.com/___sunny___raj___" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/instagram-new.png" alt="___sunny___raj___" height="43" width="43" /></a>
-<a href="https://linkedin.com/in/sunnyraj2424" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" alt="sunnyraj2424" height="43" width="43" /></a>
-<a href="https://twitter.com/@sunnyrajsunny3" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/twitter.png" alt="@sunnyrajsunny3" height="43" width="43" /></a>
-<a href="https://www.hackerrank.com/Sunny_Raj_2023" target="blank"><img align="center" src="https://github.com/amangupta37/KNOW-ME-app/blob/main/hacker-rank.png" alt="@Sunny_Raj_" height="43" width="43" /></a>
-<a href="https://leetcode.com/SR-Sunny-Raj/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/43/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="@Sunny_Raj_" /></a>
-<a href="https://www.codechef.com/users/mr_c0d3r" target="blank"><img align="center" src="https://img.icons8.com/ios/43/000000/codechef.png" alt="@Sunny_Raj_" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sunnyraj1333/practice" target="blank"><img align="center" src="https://img.icons8.com/color/43/000000/GeeksforGeeks.png" alt="@Sunny_Raj_" /></a>
+<a href="https://dev.to/@sunnyraj2424" target="blank"><img align="center" src="https://raw.githubusercontent.com/chandrikadeb7/github-profile-readme-generator/chandrikadeb7-devlogo/src/images/icons/Social/devto.svg" alt="@sunnyraj2424" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sunnyraj2424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunnyraj2424" height="30" width="40" /></a>
+<a href="https://instagram.com/___sunny___raj___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___sunny___raj___" height="30" width="40" /></a>
+<a href="https://twitter.com/@sunnyrajsunny3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sunnyrajsunny3" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Sunny_Raj_2023" target="blank"><img align="center" src="https://github.com/amangupta37/KNOW-ME-app/blob/main/hacker-rank.png" alt="@Sunny_Raj_" height="30" width="30" /></a>
+<a href="https://www.codechef.com/users/mr_c0d3r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@Sunny_Raj_" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mr.c0d3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mr.c0d3r" height="30" width="40" /></a>
+<a href="https://leetcode.com/SR-Sunny-Raj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@Sunny_Raj_" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sunnyraj1333/practice" target="blank"><img align="center" src="https://img.icons8.com/color/38/000000/GeeksforGeeks.png" alt="@Sunny_Raj_" /></a>
   
   
 </br>
