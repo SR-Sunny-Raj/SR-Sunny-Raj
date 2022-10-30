@@ -71,7 +71,7 @@
 </a>
 <br>
 <a href="https://github.com/SR-Sunny-Raj">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=gruvbox&line_height=27" alt="Sunny's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=calm&line_height=27" alt="Sunny's github stats"/>
 </a></p>
   
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SR-Sunny-Raj&repo=Hacktoberfest2022-for-everyone&show_owner=true&theme=gruvbox_light)](https://github.com/SR-Sunny-Raj/Hacktoberfest2022-for-everyone) -->
