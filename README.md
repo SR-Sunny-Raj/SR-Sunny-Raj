@@ -67,7 +67,7 @@
 
 <p align="left">
 <a href="https://github.com/SR-Sunny-Raj">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR-Sunny-Raj&theme=gruvbox&line_height=10&langs_count=8&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR-Sunny-Raj&theme=calm&line_height=10&langs_count=8&layout=compact" />
 </a>
 <br>
 <a href="https://github.com/SR-Sunny-Raj">
