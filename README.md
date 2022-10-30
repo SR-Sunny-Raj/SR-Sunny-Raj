@@ -1,7 +1,7 @@
 [![@mr_c0d3r's Holopin board](https://holopin.me/mr_c0d3r)](https://holopin.io/@mr_c0d3r)
 <h2> 𝐻𝑒𝑦 𝑡ℎ𝑒𝑟𝑒 <img src="https://media.giphy.com/media/QX1OLGwOdE2X5kjn9w/giphy.gif" height="60" width="40"></h2>
 <!-- <h3 style=font-family: 'Fuzzy Bubbles', cursive;>𝐼'𝑚 𝑆𝑢𝑛𝑛𝑦 𝑅𝑎𝑗!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3> -->
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=𝐼'𝑚+𝑆𝑢𝑛𝑛𝑦+𝑅𝑎𝑗!)](https://git.io/typing-svg)
 
