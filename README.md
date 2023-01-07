@@ -30,15 +30,15 @@
 <img src="https://media.giphy.com/media/7xWWnhbzGtpwEcbYvP/giphy.gif" width="100">
 
 <p align="left">
-<a href="https://dev.to/@sunnyraj2424" target="blank"><img align="center" src="https://raw.githubusercontent.com/chandrikadeb7/github-profile-readme-generator/chandrikadeb7-devlogo/src/images/icons/Social/devto.svg" alt="@sunnyraj2424" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sunnyraj2424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunnyraj2424" height="30" width="40" /></a>
-<a href="https://instagram.com/___sunny___raj___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___sunny___raj___" height="30" width="40" /></a>
-<a href="https://twitter.com/@sunnyrajsunny3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sunnyrajsunny3" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Sunny_Raj_2023" target="blank"><img align="center" src="https://github.com/amangupta37/KNOW-ME-app/blob/main/hacker-rank.png" alt="@Sunny_Raj_" height="30" width="30" /></a>
-<a href="https://www.codechef.com/users/mr_c0d3r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@Sunny_Raj_" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mr.c0d3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mr.c0d3r" height="30" width="40" /></a>
-<a href="https://leetcode.com/SR-Sunny-Raj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@Sunny_Raj_" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sunnyraj1333/practice" target="blank"><img align="center" src="https://img.icons8.com/color/38/000000/GeeksforGeeks.png" alt="@Sunny_Raj_" /></a>
+<a href="https://dev.to/@sunnyraj2424" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969051.png" alt="@sunnyraj2424" height="31" width="31" /></a>
+<a href="https://linkedin.com/in/sunnyraj2424" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="sunnyraj2424" height="31" width="31" /></a>
+<a href="https://instagram.com/___sunny___raj___" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111336.png" alt="___sunny___raj___" height="31" width="31" /></a>
+<a href="https://twitter.com/@sunnyrajsunny3" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" alt="@sunnyrajsunny3" height="31" width="31" /></a>
+<a href="https://www.hackerrank.com/Sunny_Raj_2023" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/512/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-tritone-tal-revivo.png" alt="@Sunny_Raj_" height="31" width="31" /></a>
+<a href="https://www.codechef.com/users/mr_c0d3r" target="blank"><img align="center" src="https://img.icons8.com/ios/512/codechef.png" alt="@Sunny_Raj_" height="31" width="31" /></a>
+<a href="https://codeforces.com/profile/mr.c0d3r" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/512/external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo.png" alt="mr.c0d3r" height="31" width="31" /></a>
+<a href="https://leetcode.com/SR-Sunny-Raj/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/512/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-tritone-tal-revivo.png" alt="@Sunny_Raj_" height="31" width="31" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sunnyraj1333/practice" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/geeksforgeeks-1324440162314212381.png" alt="@Sunny_Raj_" height="35" width="31" /></a>
   
   
 </br>
@@ -63,28 +63,31 @@
 <img src="https://img.icons8.com/color/64/nodejs.png"/>
 </p> -->
 <p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/c-cute.png" alt="c" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/dusk/512/java-coffee-cup-logo.png" alt="java" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/stickers/512/python.png" alt="python" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/512/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-tritone-tal-revivo.png" alt="html5" width="38" height="38"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/stickers/512/css3.png" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/javascript.png" alt="javascript" width="40" height="40"/> </a>
 <br>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/bubbles/512/react.png" alt="react" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/512/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-tritone-tal-revivo.png" alt="nodejs" width="38" height="38"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="38" height="38"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/512/external-mongodb-a-cross-platform-document-oriented-database-program-logo-tritone-tal-revivo.png" alt="mongodb" width="38" height="38"/> </a>
 </p>
 
 <!-- #### ⚙ IDEs :- -->
 <h4> ⚙ 𝐼𝐷𝐸𝑠 :-</h4>
 <p float="left">
-<img src="https://img.icons8.com/color/45/000000/pycharm.png"/>
-<img src="https://img.icons8.com/color/45/000000/intellij-idea.png"/>
-<img src="https://img.icons8.com/fluent/45/000000/visual-studio-code-2019.png"/>
+<!-- <img src="https://img.icons8.com/color/45/000000/pycharm.png"/> -->
+<img src="https://img.icons8.com/color/512/pycharm.png" width="40" height="40" />
+<!-- <img src="https://img.icons8.com/color/45/000000/intellij-idea.png"/> -->
+<img src="https://img.icons8.com/color/512/intellij-idea.png" width="40" height="40" />
+<!-- <img src="https://img.icons8.com/fluent/45/000000/visual-studio-code-2019.png"/> -->
+<img src="https://img.icons8.com/color/512/visual-studio-code-2019.png" width="40" height="40" />
 </p>
 
 <p align="left">
@@ -95,9 +98,9 @@
 <a href="https://github.com/SR-Sunny-Raj">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=calm&line_height=27" alt="Sunny's github stats"/>
 </a></p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=SR-Sunny-Raj&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
-</p>
+</p> -->
   
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SR-Sunny-Raj&repo=Hacktoberfest2022-for-everyone&show_owner=true&theme=gruvbox_light)](https://github.com/SR-Sunny-Raj/Hacktoberfest2022-for-everyone) -->
   
