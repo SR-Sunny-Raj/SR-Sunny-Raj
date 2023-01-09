@@ -46,7 +46,8 @@
 <p>
     <align="center"> <img src="https://komarev.com/ghpvc/?username=SR-Sunny-Raj&label=Visitors%20&color=0e75b6&style=plastic" alt="SR-Sunny-Raj" />
 </p>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
+<!-- <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2> -->
+<img src="https://i.imgur.com/4M7IWwP.gif" width="1100px" height="2px"></h2>
 
 <!-- #### 🛠️ Technologies & Tools :- -->
 <h4> 🛠️ 𝑇𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 & 𝑇𝑜𝑜𝑙𝑠 :- </h4>
