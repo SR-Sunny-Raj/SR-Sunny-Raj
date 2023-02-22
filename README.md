@@ -99,9 +99,10 @@
 <a href="https://github.com/SR-Sunny-Raj">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=calm&line_height=27" alt="Sunny's github stats"/>
 </a></p>
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SR-Sunny-Raj&theme=dracula">
-</p> -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SR-Sunny-Raj&theme=dracula&hide_border=true">
+</p>
 
 <!-- <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=SR-Sunny-Raj&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
@@ -111,9 +112,9 @@
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SR-Sunny-Raj&theme=dracula&bg_color=ffffff00&color=878787&area=true&hide_border=true">
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SR-Sunny-Raj&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
-</p>
+</p> -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SR-Sunny-Raj&repo=Hacktoberfest2022-for-everyone&show_owner=true&theme=gruvbox_light)](https://github.com/SR-Sunny-Raj/Hacktoberfest2022-for-everyone) -->
   
