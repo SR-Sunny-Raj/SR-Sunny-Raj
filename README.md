@@ -99,6 +99,8 @@
 <a href="https://github.com/SR-Sunny-Raj">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SR-Sunny-Raj&show_icons=true&theme=calm&line_height=27" alt="Sunny's github stats"/>
 </a></p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SR-Sunny-Raj&theme=dracula"></p>
 <!-- <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=SR-Sunny-Raj&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
 </p> -->
