@@ -6,7 +6,8 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=𝐼'𝑚+𝑆𝑢𝑛𝑛𝑦+𝑅𝑎𝑗!)](https://git.io/typing-svg) -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD4B2&lines=𝐼'𝑚+𝑆𝑢𝑛𝑛𝑦+𝑅𝑎𝑗!)](https://git.io/typing-svg)
 
-<h3> 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑃𝑢𝑟𝑠𝑢𝑖𝑛𝑔 𝐵.𝑇𝑒𝑐ℎ 𝑖𝑛 𝐶𝑜𝑚𝑝𝑢𝑡𝑒𝑟 𝑆𝑐𝑖𝑒𝑛𝑐𝑒 𝑎𝑛𝑑 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔 𝑎𝑛𝑑 𝐼'𝑚 𝑒𝑛𝑗𝑜𝑦𝑖𝑛𝑔 𝑖𝑡.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h3><br>
+<!-- <h3> 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑃𝑢𝑟𝑠𝑢𝑖𝑛𝑔 𝐵.𝑇𝑒𝑐ℎ 𝑖𝑛 𝐶𝑜𝑚𝑝𝑢𝑡𝑒𝑟 𝑆𝑐𝑖𝑒𝑛𝑐𝑒 𝑎𝑛𝑑 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔 𝑎𝑛𝑑 𝐼'𝑚 𝑒𝑛𝑗𝑜𝑦𝑖𝑛𝑔 𝑖𝑡.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h3><br> -->
+<h3> 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑤𝑜𝑟𝑘𝑖𝑛𝑔 𝑎𝑡 𝐴𝑐𝑐𝑒𝑛𝑡𝑢𝑟𝑒 𝑆𝑜𝑙𝑢𝑡𝑖𝑜𝑛𝑠 𝑃𝑣𝑡 𝐿𝑡𝑑 𝑎𝑠 𝑎 𝑆𝑜𝑓𝑡𝑤𝑎𝑟𝑒 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟 𝑎𝑛𝑑 𝐼'𝑚 𝑒𝑛𝑗𝑜𝑦𝑖𝑛𝑔 𝑖𝑡.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h3><br>
 
 <img align='right' src="https://media.giphy.com/media/SEiFq3e1S4xyQGzird/giphy.gif" width="400">
 <!-- <img align='right' src="https://media.giphy.com/media/7G9YhMtnt2FQR9Sscd/giphy.gif" width="400"> -->
@@ -19,7 +20,7 @@
 <li>📌 𝐼 𝑙𝑜𝑣𝑒 𝑒𝑥𝑝𝑙𝑜𝑟𝑖𝑛𝑔 𝑛𝑒𝑤 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑎𝑛𝑑 𝑙𝑒𝑣𝑒𝑟𝑎𝑔𝑖𝑛𝑔 𝑡ℎ𝑒𝑚 𝑡𝑜 𝑠𝑜𝑙𝑣𝑒 𝑟𝑒𝑎𝑙 𝑤𝑜𝑟𝑙𝑑 𝑝𝑟𝑜𝑏𝑙𝑒𝑚𝑠.</li>
 <li>📌 𝐼 𝑎𝑚 𝑜𝑝𝑒𝑛 𝑡𝑜 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑎𝑛𝑑 𝑐𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑛𝑔 𝑡𝑜 𝑡ℎ𝑒 𝑐𝑜𝑚𝑚𝑢𝑛𝑖𝑡𝑦 𝑏𝑦 𝑖𝑛𝑛𝑜𝑣𝑎𝑡𝑖𝑛𝑔 𝑎𝑛𝑑 𝑤𝑜𝑟𝑘𝑖𝑛𝑔 ℎ𝑎𝑟𝑑.</li>
 <li>📌 𝐼 𝑎𝑚 𝑝𝑟𝑜𝑓𝑖𝑐𝑖𝑒𝑛𝑡 𝑖𝑛 𝐽𝑎𝑣𝑎, 𝐶/𝐶++ 𝑝𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑖𝑛𝑔 𝑙𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠, 𝑆𝑄𝐿 𝑎𝑛𝑑 ℎ𝑎𝑣𝑒 𝑘𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒 𝑜𝑓 𝐷𝑎𝑡𝑎 𝑆𝑡𝑟𝑢𝑐𝑡𝑢𝑟𝑒𝑠 𝑎𝑛𝑑 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚𝑠 𝑎𝑙𝑜𝑛𝑔 𝑤𝑖𝑡ℎ ℎ𝑎𝑣𝑖𝑛𝑔 ℎ𝑎𝑛𝑑𝑠-𝑜𝑛 𝑒𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑒 𝑜𝑛 𝑊𝑒𝑏 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑙𝑖𝑘𝑒 𝐻𝑇𝑀𝐿, 𝐶𝑆𝑆, 𝐽𝑎𝑣𝑎𝑆𝑐𝑟𝑖𝑝𝑡, 𝑅𝑒𝑎𝑐𝑡𝑗𝑠 𝑎𝑛𝑑 𝑁𝑜𝑑𝑒𝑗𝑠.</li>
-<li>📌 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑎𝑛𝑑 𝑤𝑜𝑟𝑘𝑖𝑛𝑔 𝑜𝑛 𝐽𝑎𝑣𝑎 𝐽2𝐸𝐸 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑦.</li>
+<li>📌 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑎𝑛𝑑 𝑤𝑜𝑟𝑘𝑖𝑛𝑔 𝑜𝑛 𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑅𝑒𝑎𝑐𝑡 𝐽𝑆 𝑎𝑛𝑑 𝑁𝑒𝑥𝑡 𝐽𝑆.</li>
 </ul>
 
 <!-- https://assets5.lottiefiles.com/packages/lf20_tsdnk8ut.json -->
@@ -102,7 +103,7 @@
 </a></p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SR-Sunny-Raj&theme=dracula&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SR-Sunny-Raj&theme=dracula&area=true&hide_border=true">
 </p>
 
 <!-- <p align="center">
