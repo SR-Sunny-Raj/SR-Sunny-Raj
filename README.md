@@ -39,7 +39,7 @@
 <a href="https://www.codechef.com/users/mr_c0d3r" target="blank"><img align="center" src="https://img.icons8.com/ios/512/codechef.png" alt="@Sunny_Raj_" height="31" width="31" /></a>
 <a href="https://codeforces.com/profile/mr.c0d3r" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/512/external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo.png" alt="mr.c0d3r" height="31" width="31" /></a>
 <a href="https://leetcode.com/SR-Sunny-Raj/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/512/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-tritone-tal-revivo.png" alt="@Sunny_Raj_" height="31" width="31" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sunnyraj1333/practice" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/geeksforgeeks-1324440162314212381.png" alt="@Sunny_Raj_" height="35" width="31" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sunnyraj1333/practice" target="blank"><img align="center" src="https://github.com/SR-Sunny-Raj/SR-Sunny-Raj/assets/61446913/9cf1e1f5-f03a-4c76-941a-5a836fa387d6" alt="@Sunny_Raj_" height="35" width="31" /></a>
   
   
 </br>
