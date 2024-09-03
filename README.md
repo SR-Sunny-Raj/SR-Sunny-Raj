@@ -33,7 +33,7 @@
 <p align="left">
 <a href="https://dev.to/@sunnyraj2424" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969051.png" alt="@sunnyraj2424" height="31" width="31" /></a>
 <a href="https://linkedin.com/in/sunnyraj2424" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="sunnyraj2424" height="31" width="31" /></a>
-<a href="https://instagram.com/___sunny___raj___" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111336.png" alt="___sunny___raj___" height="31" width="31" /></a>
+<a href="https://instagram.com/sunny_raj.yadav" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111336.png" alt="___sunny___raj___" height="31" width="31" /></a>
 <a href="https://twitter.com/@sunnyrajsunny3" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" alt="@sunnyrajsunny3" height="31" width="31" /></a>
 <a href="https://www.hackerrank.com/Sunny_Raj_2023" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/512/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-tritone-tal-revivo.png" alt="@Sunny_Raj_" height="31" width="31" /></a>
 <a href="https://www.codechef.com/users/mr_c0d3r" target="blank"><img align="center" src="https://img.icons8.com/ios/512/codechef.png" alt="@Sunny_Raj_" height="31" width="31" /></a>
